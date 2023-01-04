@@ -1,5 +1,5 @@
 {
-  "name": "Product Catalog with Cart",
+  "name": "product_catalog_with_cart",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
