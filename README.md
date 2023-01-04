@@ -2,6 +2,17 @@
 Product Catalog with Add to Cart Feature, Grid View and List View
 
 <p><a title="react-product-catalog-with-cart." href="https://react-product-catalog-with-cart.onrender.com" target="_blank"><strong>Demo Link</strong></a></p>
+
+
+<img width="1047" alt="product_list_view" src="https://user-images.githubusercontent.com/5128706/210499030-09d9fb2e-1bf9-47f8-88d0-6da30a266538.png">
+Product List View
+
+<img width="1114" alt="product_grid_view" src="https://user-images.githubusercontent.com/5128706/210499059-65fe1225-dbf4-4498-b9bf-90dfdab6ac67.png">
+Product Grid View
+
+<img width="1058" alt="cart_view" src="https://user-images.githubusercontent.com/5128706/210499053-d296e9e1-9adc-4e43-b856-740d5c238c08.png">
+Cart View
+
 <p><strong>Product Catalogue </strong></p>
 <ul>
 <li>Product List with Grid View and List View Option</li>
@@ -29,4 +40,5 @@ Product Catalog with Add to Cart Feature, Grid View and List View
 <p>#shopping-cart #shopping-cart-react. #SPA #cart-gid-view-list-view</p>
 <p>&nbsp;</p>
 
+<p>Note - All Images are used for representation of UI/UX only, user needs to change all logos and images</p>
 
