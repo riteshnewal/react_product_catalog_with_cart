@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c92bc20.css",
+    "main.js": "/static/js/main.5894673a.js",
+    "static/js/787.026077b7.chunk.js": "/static/js/787.026077b7.chunk.js",
+    "static/media/Tranquillo.otf": "/static/media/Tranquillo.6a5bc4d55dbd8019cf88.otf",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.8c92bc20.css.map": "/static/css/main.8c92bc20.css.map",
+    "main.5894673a.js.map": "/static/js/main.5894673a.js.map",
+    "787.026077b7.chunk.js.map": "/static/js/787.026077b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c92bc20.css",
+    "static/js/main.5894673a.js"
+  ]
+}
