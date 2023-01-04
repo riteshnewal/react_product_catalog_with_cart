@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+	font-family: Augestina;
+	src: url('./fonts/Tranquillo.otf');
+}
+
+.ritesh-title {
+	font-family: Augestina;
+	text-transform: capitalize;
+  font-size: 44px;
+  font-weight: 800;
+}

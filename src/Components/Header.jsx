@@ -44,11 +44,15 @@ const Header = (props) => {
             <div className="container">
                 <div className="brand">
                     <Link to="/">
-                        <img
+                        {/* <img
                             className="logo"
                             src="https://blog.grabon.in/wp-content/uploads/2018/08/bigbasket-best-online-shopping-sites-1.jpg"
                             alt="Brand Logo"
-                        />
+                        /> */}
+                        <p className="ritesh-title">
+                            Ritesh Newal
+                        </p>
+                        
                     </Link>
                 </div>
 
