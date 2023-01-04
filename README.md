@@ -40,4 +40,5 @@ Cart View
 <p>#shopping-cart #shopping-cart-react. #SPA #cart-gid-view-list-view</p>
 <p>&nbsp;</p>
 
+<p>Note - All Images are used for representation of UI/UX only, user needs to change all logos and images</p>
 
